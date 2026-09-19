@@ -1,6 +1,6 @@
 # Onfinity — open source ERP and CRM in C#/.NET
 
-**Formerly VIENNA Advantage.** Accounting, purchasing, sales and CRM, inventory and warehouse, projects, fixed assets and HR on one database, with a low-code Application Dictionary underneath: windows, fields, rules, workflows and reports are metadata, so a vertical built on Onfinity survives every upgrade. Runs on Windows Server (IIS) with PostgreSQL or Oracle; users work in the browser. Eclipse Public Licence.
+**Formerly VIENNA Advantage.** Accounting, manufacturing, purchasing, sales and CRM, inventory and warehouse, projects, fixed assets and HR on one database, with a low-code Application Dictionary underneath: windows, fields, rules, workflows and reports are metadata, so a vertical built on Onfinity survives every upgrade. Runs on Windows Server (IIS) with PostgreSQL or Oracle; users work in the browser. Eclipse Public Licence.
 
 ## Where to start
 
